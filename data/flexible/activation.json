@@ -1,0 +1,288 @@
+{
+  "metadata": {
+    "title": "\u5408\u6210activation\u6d53\u5ea6\u54cd\u5e94",
+    "purpose": "\u5b9e\u9a8c\u76ee\u7684\uff1a\u9a8c\u8bc1\u591a\u683c\u5f0f\u3001\u591a\u5355\u4f4d\u548c\u663e\u5f0f\u5206\u6790\u573a\u666f\u3002"
+  },
+  "measurements": [
+    {
+      "sample": "Candidate-A",
+      "concentration": 2.9999999999999997e-05,
+      "unit": "uM",
+      "value": 100.19365066604594,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-A",
+      "concentration": 2.9999999999999997e-05,
+      "unit": "uM",
+      "value": 101.20062202952377,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-A",
+      "concentration": 0.0001,
+      "unit": "uM",
+      "value": 103.22988043534349,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-A",
+      "concentration": 0.0001,
+      "unit": "uM",
+      "value": 104.26736667087458,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-A",
+      "concentration": 0.0003,
+      "unit": "uM",
+      "value": 116.60417044600213,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-A",
+      "concentration": 0.0003,
+      "unit": "uM",
+      "value": 117.7760716565147,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-A",
+      "concentration": 0.001,
+      "unit": "uM",
+      "value": 184.63757738562592,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-A",
+      "concentration": 0.001,
+      "unit": "uM",
+      "value": 186.49323142970255,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-A",
+      "concentration": 0.003,
+      "unit": "uM",
+      "value": 393.6364522811483,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-A",
+      "concentration": 0.003,
+      "unit": "uM",
+      "value": 397.59259753020507,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-A",
+      "concentration": 0.01,
+      "unit": "uM",
+      "value": 748.9169808776463,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-A",
+      "concentration": 0.01,
+      "unit": "uM",
+      "value": 756.4437847055623,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-A",
+      "concentration": 0.03,
+      "unit": "uM",
+      "value": 927.5984015908841,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-A",
+      "concentration": 0.03,
+      "unit": "uM",
+      "value": 936.9209985917975,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-A",
+      "concentration": 0.1,
+      "unit": "uM",
+      "value": 981.6917485662651,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-A",
+      "concentration": 0.1,
+      "unit": "uM",
+      "value": 991.5579972955743,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-A",
+      "concentration": 0.3,
+      "unit": "uM",
+      "value": 992.1076632184786,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-A",
+      "concentration": 0.3,
+      "unit": "uM",
+      "value": 1002.0785945071065,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-B",
+      "concentration": 2.9999999999999997e-05,
+      "unit": "uM",
+      "value": 99.70374303956567,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-B",
+      "concentration": 2.9999999999999997e-05,
+      "unit": "uM",
+      "value": 100.705790708305,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-B",
+      "concentration": 0.0001,
+      "unit": "uM",
+      "value": 100.59819363735245,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-B",
+      "concentration": 0.0001,
+      "unit": "uM",
+      "value": 101.60923075933587,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-B",
+      "concentration": 0.0003,
+      "unit": "uM",
+      "value": 104.5898631732273,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-B",
+      "concentration": 0.0003,
+      "unit": "uM",
+      "value": 105.64101757697833,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-B",
+      "concentration": 0.001,
+      "unit": "uM",
+      "value": 126.29289421997848,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-B",
+      "concentration": 0.001,
+      "unit": "uM",
+      "value": 127.56216953877221,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-B",
+      "concentration": 0.003,
+      "unit": "uM",
+      "value": 211.93778480662118,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-B",
+      "concentration": 0.003,
+      "unit": "uM",
+      "value": 214.0678127946274,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-B",
+      "concentration": 0.01,
+      "unit": "uM",
+      "value": 490.4141155564623,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-B",
+      "concentration": 0.01,
+      "unit": "uM",
+      "value": 495.34290063743174,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-B",
+      "concentration": 0.03,
+      "unit": "uM",
+      "value": 800.6113212728211,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-B",
+      "concentration": 0.03,
+      "unit": "uM",
+      "value": 808.6576662102364,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-B",
+      "concentration": 0.1,
+      "unit": "uM",
+      "value": 951.2319993374953,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-B",
+      "concentration": 0.1,
+      "unit": "uM",
+      "value": 960.7921199338518,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-B",
+      "concentration": 0.3,
+      "unit": "uM",
+      "value": 985.2235278145615,
+      "role": "sample"
+    },
+    {
+      "sample": "Candidate-B",
+      "concentration": 0.3,
+      "unit": "uM",
+      "value": 995.1252718126976,
+      "role": "sample"
+    },
+    {
+      "sample": "high",
+      "concentration": "",
+      "unit": "uM",
+      "value": 995.0,
+      "role": "high"
+    },
+    {
+      "sample": "high",
+      "concentration": "",
+      "unit": "uM",
+      "value": 1004.9999999999999,
+      "role": "high"
+    },
+    {
+      "sample": "low",
+      "concentration": "",
+      "unit": "uM",
+      "value": 99.5,
+      "role": "low"
+    },
+    {
+      "sample": "low",
+      "concentration": "",
+      "unit": "uM",
+      "value": 100.49999999999999,
+      "role": "low"
+    }
+  ]
+}

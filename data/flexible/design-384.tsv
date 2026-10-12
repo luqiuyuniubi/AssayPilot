@@ -1,0 +1,41 @@
+well	sample	concentration	unit	role
+K1	Candidate-A	2.9999999999999997e-05	uM	sample
+K2	Candidate-A	2.9999999999999997e-05	uM	sample
+K3	Candidate-A	0.0001	uM	sample
+K4	Candidate-A	0.0001	uM	sample
+K5	Candidate-A	0.0003	uM	sample
+K6	Candidate-A	0.0003	uM	sample
+K7	Candidate-A	0.001	uM	sample
+K8	Candidate-A	0.001	uM	sample
+K9	Candidate-A	0.003	uM	sample
+K10	Candidate-A	0.003	uM	sample
+K11	Candidate-A	0.01	uM	sample
+K12	Candidate-A	0.01	uM	sample
+K13	Candidate-A	0.03	uM	sample
+K14	Candidate-A	0.03	uM	sample
+K15	Candidate-A	0.1	uM	sample
+K16	Candidate-A	0.1	uM	sample
+K17	Candidate-A	0.3	uM	sample
+K18	Candidate-A	0.3	uM	sample
+K19	Candidate-B	2.9999999999999997e-05	uM	sample
+K20	Candidate-B	2.9999999999999997e-05	uM	sample
+K21	Candidate-B	0.0001	uM	sample
+K22	Candidate-B	0.0001	uM	sample
+K23	Candidate-B	0.0003	uM	sample
+K24	Candidate-B	0.0003	uM	sample
+L1	Candidate-B	0.001	uM	sample
+L2	Candidate-B	0.001	uM	sample
+L3	Candidate-B	0.003	uM	sample
+L4	Candidate-B	0.003	uM	sample
+L5	Candidate-B	0.01	uM	sample
+L6	Candidate-B	0.01	uM	sample
+L7	Candidate-B	0.03	uM	sample
+L8	Candidate-B	0.03	uM	sample
+L9	Candidate-B	0.1	uM	sample
+L10	Candidate-B	0.1	uM	sample
+L11	Candidate-B	0.3	uM	sample
+L12	Candidate-B	0.3	uM	sample
+L13	high		uM	high
+L14	high		uM	high
+L15	low		uM	low
+L16	low		uM	low

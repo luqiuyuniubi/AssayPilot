@@ -1,0 +1,30 @@
+{
+  "synthetic": true,
+  "source": "tools/generate_sample.py; no real research data",
+  "seed": "deterministic formulas",
+  "bottom_rlu": 10000,
+  "top_rlu": 330000,
+  "ic50_nm": {
+    "Drug1": 3.2,
+    "Drug2": 7.5,
+    "Drug3": 18.0
+  },
+  "hill": [
+    1.5,
+    1.8,
+    1.2
+  ],
+  "Drug4": "flat curve; no meaningful IC50",
+  "final_concentrations_nm": [
+    100,
+    40,
+    16,
+    6.4,
+    2.56,
+    1.024,
+    0.4096,
+    0.16384
+  ],
+  "independent_blank": false,
+  "reference_drug_specified": false
+}
