@@ -1,2 +1,2 @@
 # Validated on Windows x64 / Python 3.11; refresh with tools/lock_dependencies.py
-pymupdf==1.28.2
+pymupdf==2.0
